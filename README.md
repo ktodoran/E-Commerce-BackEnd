@@ -12,16 +12,23 @@ This application provides a framework to maintain and update an e-commerce site 
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 
-<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-
-<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 
 ## Table of Contents
 
+*[Description](#description)
 * [Video](#video)
 * [Questions](#questions)
 * [Additional Thoughts](#additional-thoughts)
 * [License](#license)
+
+## Description
+  `User Story`
+
+    AS A manager at an internet retail company
+
+    I WANT a back end for my e-commerce website that uses the latest technologies
+
+    SO THAT my company can compete with other e-commerce companies
 
 ## Video
 [Video Walkthrough](https://drive.google.com/file/d/1esD9PzSNFZv_lNr9bjpil3ub70AVuNax/view)
