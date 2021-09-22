@@ -15,7 +15,7 @@ This application provides a framework to maintain and update an e-commerce site 
 
 ## Table of Contents
 
-*[Description](#description)
+* [Description](#description)
 * [Video](#video)
 * [Questions](#questions)
 * [Additional Thoughts](#additional-thoughts)
