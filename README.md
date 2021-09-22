@@ -2,10 +2,6 @@
         
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
       
-## Description
-
-This application provides a framework to maintain and update an e-commerce site from the back-end. This application uses MySQL and Sequelize for trusted and efficient creation and maintenance of the database for your front-end site.
-
 ## Built With
     
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
